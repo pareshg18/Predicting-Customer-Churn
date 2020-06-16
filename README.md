@@ -73,4 +73,3 @@ Not taking any action on the customers, would cost the company a lot of money- a
 - Some customers who receive retention incentives will still churn. Including a probability of churning despite receiving an incentive in our cost function would provide a better ROI on our retention programs.
 - Actual training data and monetary cost assignments could be more complex.
 - Multiple models for each type of churn could be needed.
-
