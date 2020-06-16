@@ -24,6 +24,7 @@ Android users experiencing higher surge than iPhone users
 ![surge](https://user-images.githubusercontent.com/45079009/84799510-361a8000-afb1-11ea-9146-ae1e6824652a.PNG)
 
 Correlation between features
+
 ![corr](https://user-images.githubusercontent.com/45079009/84799679-7aa61b80-afb1-11ea-9929-d525a3b63fd3.png)
 
 # Models Used:
